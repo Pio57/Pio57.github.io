@@ -5,7 +5,7 @@ bio: Computer science student
 description: Otino Pio Santosuosso's Personal Website
 
 # Profile picture
-picture: assets/images/profile.jpg
+picture: /assets/images/profile.jpg
 
 # your url: http://USERNAME.github.io
 url: https://Pio57.github.io/MyPortfolio/
